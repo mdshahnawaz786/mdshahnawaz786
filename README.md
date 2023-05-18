@@ -1,4 +1,4 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg)]
+[![MasterHead](https://cdn.dribbble.com/users/376544/screenshots/5482949/full-stack-portfolio.gif)]
 <h1 align="center">Hi 👋, I'm Md Shahnawaz</h1>
 <h3 align="center">I am a versatility and easily adapt to different hats (Front End Web Developer 👨🏽‍💻🌐) depending on what the project requires. I love exploring new tech stack 👨🏻‍💻 and leveraging them to build cool stuffs 🛠️.</h3>
 <img align="right" alt="Coding" width="400" height="350" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
