@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahnawaz786&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahnawaz786" /> </p>
 
-- 🔭  I’m currently working on [Geekster]
+- 🔭  I’m currently working at [Geekster]
 
 - 💻 I am actively looking **for jobs for the role of Front-end Developer👨🏽‍💻.**
 
