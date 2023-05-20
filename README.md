@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shahnawaz0786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahnawaz0786" height="30" width="40" /></a>
-<a href=https://fb.com/md.shahnawaz.940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad shahnawaz" height="30" width="40" /></a>
+<a href="https://www.facebook.com/md.shahnawaz.940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad shahnawaz" height="30" width="40" /></a>
 <a href="https://instagram.com/md_shahnawaz786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_shahnawaz786" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@mdshahnawaz911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mdshahnawaz911" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mdshahnawaz911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdshahnawaz911" height="30" width="40" /></a>
